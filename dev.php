@@ -1,3 +1,3 @@
 <?php
-  echo 222222;
+  echo bug success 222222;
 ?>
